@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Memory Usage Widget
+Comment=Show system memory usage
+Exec=YourPath/MemoryWidget.py
+Icon=utilities-system-monitor
+Terminal=false
+Type=Application
+Categories=Utility;
+
