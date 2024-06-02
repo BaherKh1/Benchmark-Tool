@@ -13,6 +13,7 @@ This is a simple system monitoring widget written in Python using PyQt5 and psut
 1. Make sure you have Python 3 installed on your system.
 2. Install required dependencies by running: pip install -r requirements.txt
 3. Run the application using: python MemoryWidget.py
+4. NB: The .exe and the direct executable file for linux will be available soon
 
 
 ### Desktop File
